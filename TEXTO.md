@@ -1,11 +1,1 @@
-╭━━━━-╮
-╰┃ ┣▇━▇
- ┃ ┃  ╰━▅╮ 
- ╰┳╯ ╰━━┳╯
-  ╰╮ ┳━━╯ Doguinho de carro
- ▕▔▋ ╰╮╭━╮ Passeando no repositório
-╱▔╲▋╰━┻┻╮╲╱▔▔▔╲
-▏  ▔▔▔▔▔▔▔  O O┃ 
-╲╱▔╲▂▂▂▂╱▔╲▂▂▂╱
- ▏╳▕▇▇▕ ▏╳▕▇▇▕
- ╲▂╱╲▂╱ ╲▂╱╲▂╱
+Oi, deu certo professora kkkk
